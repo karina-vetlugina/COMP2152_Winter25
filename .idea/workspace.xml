@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157ae37c-0969-4284-baca-19ec93ce1861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/COMP2152_Winter25.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/lab02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/comp2152.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/lab1/lab1.py" beforeDir="false" />
+    <list default="true" id="157ae37c-0969-4284-baca-19ec93ce1861" name="Changes" comment="added lab02, updated the validation for user input&#10;refactored lab01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week02/lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/lab02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lab02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -78,11 +74,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737120180634</updated>
-      <workItem from="1737120181622" duration="807000" />
+      <workItem from="1737120181622" duration="1591000" />
     </task>
+    <task id="LOCAL-00001" summary="added lab02, updated the validation for user input&#10;refactored lab01">
+      <option name="closed" value="true" />
+      <created>1737121039800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737121039800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added lab02, updated the validation for user input&#10;refactored lab01" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lab02, updated the validation for user input&#10;refactored lab01" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COMP2152_Winter25$lab02.coverage" NAME="lab02 Coverage Results" MODIFIED="1737121755747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week02" />
   </component>
 </project>
